@@ -1,0 +1,6 @@
+*.pyc
+*.pid
+*.vagrant/*
+*.envs/*
+*.tmp/*
+__pycache__

@@ -1,0 +1,143 @@
+    1  cd ~/vagrant
+    2  mkdir ~/agrant/.env
+    3  mkdir ~/vagrant/.env
+    4  mkdir ~/vagrant/.env/
+    5  clear
+    6  mkdir ~/vagrant
+    7  cd ~/vagrant
+    8  mkdir .env
+    9  cd .env
+   10  virtualenv --no-site-packages test
+   11  pip install -E test/ Django
+   12  source test/bin/activate
+   13  pip install Django
+   14  deactivate
+   15  mc
+   16  ьс
+   17  mc
+   18  django
+   19  source ~/vagrant/.env/testing/bin/activate
+   20  pip install django psycopg2
+   21  deactivate
+   22  source ~/vagrant/.env/test/bin/activate
+   23  pip install django psycopg2
+   24  pip install django
+   25  pip install django --upgrade
+   26  pip install psycopg2
+   27  startproject test
+   28  deactivate
+   29  startproject test
+   30  mkdir ~/vagrant/.env/project
+   31  cd ~/vagrant/.env/project
+   32  virtualenv project
+   33  source ~/vagrant/.env/project/bin/activate
+   34  mc
+   35  OA
+   36  OAOAOA
+   37  OA
+   38  service postgresql restart
+   39  ping localhost
+   40  service postgresql restart
+   41  -u django psql project
+   42  sudo -u django psql project
+   43  sudo -u "django" psql project
+   44  sudo -u postgres psql template1
+   45  OS
+   46  chmod -R 0777
+   47  chmod -R 0777 *
+   48  sudo -u django psql project
+   49  adduser django
+   50  sudo -u django psql project
+   51  cd ..
+   52  cd root
+   53  sudo -u django psql project
+   54  service postgresql restart
+   55  sudo -u django psql project
+   56  service postgresql restart
+   57  psql -u django -w
+   58  psql -u django -W
+   59  psql -U django -W
+   60  service postgresql restart
+   61  psql -U django -W
+   62  service postgresql restart
+   63  psql -U django -W
+   64  service postgresql restart
+   65  psql -U django -W
+   66  psql -U "django" -W
+   67  psql -U 'django' -W
+   68  psql -d project
+   69  sudo su django
+   70  psql -u postgres createuser django
+   71  psql -U postgres createuser django
+   72  service postgresql restart
+   73  psql -U postgres createuser django
+   74  sudo su postgresql
+   75  createuser django
+   76  sudo su postgres
+   77  apt-get install libpq-dev python-dev
+   78  mc
+   79  django-admin.py startproject myproject .
+   80  django-admin.py startproject project .
+   81  python manage.py makemigrations
+   82  sip install psycopg2
+   83  pip install psycopg2
+   84  apt-get install python-spycopg2
+   85  apt-get install python-psycopg2
+   86  source ~/vagrant/.env/project/project/bin/activate
+   87  pip install psycopg2
+   88  apt-get install python-psycopg2
+   89  python manage.py makemigrations
+   90  pip install psycopg2
+   91  apt-get install postgresql
+   92  apt-get install pythondev
+   93  apt-get install python-dev
+   94  pip install spycopg2
+   95  apt-get install python3-dev
+   96  pip install psycopg2
+   97  python manage.py makemigrations
+   98  python manage.py migrate
+   99  python manage.py createsuperuser
+  100  python manage.py migrate
+  101  python manage.py createsuperuser
+  102  python manage.py migrate
+  103  pip instal virtualenv
+  104  apt-get install python-pip
+  105  pip instal virtualenv
+  106  pip install virtualenv
+  107  pip install virtualenvwraper
+  108  pip install virtualenvwrapper
+  109  export workon_home=/vagrant/.env
+  110  apt-get install mc
+  111  mc
+  112  export WORKON_HOME=~/agrant/.env
+  113  mc
+  114  apt get install dpkg-dev virtualbox-dkms
+  115  apt-get install dpkg-dev virtualbox-dkms
+  116  uname -a
+  117  wget https://releases.hashicorp.com/vagrant/1.8.1/vagrant_1.8.1_i686.deb
+  118  св ~/vagrant/.env
+  119  cd ~/vagrant/.env
+  120  mc
+  121  source ~/.bashrc
+  122  mkvirtualenv testing
+  123  workon testing
+  124  mc
+  125  deactivate
+  126  dpkg-reconfigure virtualbox-dkms
+  127  apt-get install dpkg-dev virtualbox-dkms
+  128  mc
+  129  source /vagrant/.env/testing
+  130  workon testing
+  131  pip install Django
+  132  deactivate
+  133  mc
+  134  source ~/vagrant/.env/project/project/bin/activate
+  135  pip install django psycopg2
+  136  pip install django
+  137  pip install psycopg2
+  138  django-admin.py startproject myproject
+  139  django-admin.py startproject myproject .
+  140  mc
+  141  history 
+  142  history > /vagrant/hist.txt
+  143  history > history.txt
